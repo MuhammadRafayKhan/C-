@@ -1,0 +1,12 @@
+E:\SECOND SEMESTER\OOP\lesson1\lesson1\bin\Debug\lesson1.exe.config
+E:\SECOND SEMESTER\OOP\lesson1\lesson1\bin\Debug\lesson1.exe
+E:\SECOND SEMESTER\OOP\lesson1\lesson1\bin\Debug\lesson1.pdb
+E:\SECOND SEMESTER\OOP\lesson1\lesson1\obj\Debug\lesson1.csprojResolveAssemblyReference.cache
+E:\SECOND SEMESTER\OOP\lesson1\lesson1\obj\Debug\lesson1.frmlesson1.resources
+E:\SECOND SEMESTER\OOP\lesson1\lesson1\obj\Debug\lesson1.Properties.Resources.resources
+E:\SECOND SEMESTER\OOP\lesson1\lesson1\obj\Debug\lesson1.csproj.GenerateResource.Cache
+E:\SECOND SEMESTER\OOP\lesson1\lesson1\obj\Debug\lesson1.exe
+E:\SECOND SEMESTER\OOP\lesson1\lesson1\obj\Debug\lesson1.pdb
+E:\SECOND SEMESTER\OOP\internship\lesson1\lesson1\bin\Debug\lesson1.exe.config
+E:\SECOND SEMESTER\OOP\internship\lesson1\lesson1\obj\Debug\lesson1.exe
+E:\SECOND SEMESTER\OOP\internship\lesson1\lesson1\obj\Debug\lesson1.pdb
