@@ -1,0 +1,9 @@
+E:\SECOND SEMESTER\OOP\lesson2\lesson2\bin\Debug\lesson2.exe.config
+E:\SECOND SEMESTER\OOP\lesson2\lesson2\obj\Debug\lesson2.csprojResolveAssemblyReference.cache
+E:\SECOND SEMESTER\OOP\lesson2\lesson2\obj\Debug\lesson2.Form1.resources
+E:\SECOND SEMESTER\OOP\lesson2\lesson2\obj\Debug\lesson2.Properties.Resources.resources
+E:\SECOND SEMESTER\OOP\lesson2\lesson2\obj\Debug\lesson2.csproj.GenerateResource.Cache
+E:\SECOND SEMESTER\OOP\lesson2\lesson2\bin\Debug\lesson2.exe
+E:\SECOND SEMESTER\OOP\lesson2\lesson2\bin\Debug\lesson2.pdb
+E:\SECOND SEMESTER\OOP\lesson2\lesson2\obj\Debug\lesson2.exe
+E:\SECOND SEMESTER\OOP\lesson2\lesson2\obj\Debug\lesson2.pdb
